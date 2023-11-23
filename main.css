@@ -3,7 +3,9 @@ body {
 }
 
 img {
-    width: 30%;
+    width: 50%;
+    background-color: blue;
+    border-radius: 30px;
 }
 
 p {
